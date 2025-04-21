@@ -1,5 +1,3 @@
-# Jack of All Waters
-
 ![milestone_water](https://github.com/user-attachments/assets/94c6763d-1d7c-4f29-a9f2-a4402e2ac4aa)
 
 Video: [https://drive.google.com/file/d/1h4FQFK81x4Nv_42j9rWgMfB2mGJ-UdoU/view?usp=share_link](https://drive.google.com/file/d/1h4FQFK81x4Nv_42j9rWgMfB2mGJ-UdoU/view?usp=share_link)

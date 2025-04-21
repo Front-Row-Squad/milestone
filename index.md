@@ -26,7 +26,7 @@ We are making good progress and are mostly still on schedule with our original p
 
 - Week 1
     - Project setup (DONE)
-    - \item Initial water mesh (DONE)
+    - Initial water mesh (DONE)
 - Week 2
     - Milestone Video Slideshow (DONE)
     - Lighting Part 1: Basic Shading (DONE)
